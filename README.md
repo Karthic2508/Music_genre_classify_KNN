@@ -7,7 +7,7 @@ For this project we need a dataset of audio tracks having similar size and simil
 **About the dataset:**
     The GTZAN genre collection dataset was collected in 2000-2001. It consists of 1000 audio files each having 30 seconds duration. There are 10 classes ( 10 music        genres) each containing 100 audio tracks. Each track is in .wav format. It contains audio files of the following 10 genres:
 
-  -Blues
+  -Blues\n
   -Classical
   -Country
   -Disco
@@ -18,7 +18,7 @@ For this project we need a dataset of audio tracks having similar size and simil
   -Reggae
   -Rock
   
- ** Music Genre Classification approach:**
+ **Music Genre Classification approach:**
     
    We will use K-nearest neighbors algorithm because in various researches it has shown the best results for this problem. K-Nearest Neighbors is a popular machine learning algorithm for regression and classification. It makes predictions on data points based on their similarity measures i.e distance between them.
     
