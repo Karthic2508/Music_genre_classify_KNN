@@ -5,7 +5,8 @@ For this project we need a dataset of audio tracks having similar size and simil
 ![image](https://user-images.githubusercontent.com/89972026/204099200-8a0e93e5-c7af-4489-8423-555e072df3f1.png)
 
 **About the dataset:**
-    The GTZAN genre collection dataset was collected in 2000-2001. It consists of 1000 audio files each having 30 seconds duration. There are 10 classes ( 10 music        genres) each containing 100 audio tracks. Each track is in .wav format. It contains audio files of the following 10 genres:
+    
+   The GTZAN genre collection dataset was collected in 2000-2001. It consists of 1000 audio files each having 30 seconds duration. There are 10 classes ( 10 music        genres) each containing 100 audio tracks. Each track is in .wav format. It contains audio files of the following 10 genres:
 
   -Blues
   
